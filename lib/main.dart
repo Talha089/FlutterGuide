@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
+  //I wass the stateless widget
   void answerQuestion() {
     print("Answer Chosen");
   }
